@@ -61,3 +61,7 @@ import 'zone.js/dist/zone';  // Included with Angular CLI.
 /***************************************************************************************************
  * APPLICATION IMPORTS
  */
+
+import 'es7-object-polyfill';
+import 'polyfill-object.fromentries';
+import 'url-search-params-polyfill';
